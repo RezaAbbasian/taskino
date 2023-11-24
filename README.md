@@ -13,7 +13,7 @@ Taskino is a Task managment web application based bay Laravel framework, Takino 
 
 ## Featuers
 
-Add, edit, delete and update a task
+Add, edit and delete a task
 
 ## Code of Conduct
 
