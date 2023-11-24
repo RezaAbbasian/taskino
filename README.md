@@ -1,4 +1,4 @@
-<p align="center">Taskino</p>
+<h1 align="center">Taskino</h1>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
