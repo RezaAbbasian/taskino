@@ -9,7 +9,7 @@
 
 ## About Taskino
 
-Taskino is a Task managment web application based bay Laravel framework, Takino is a good example for CRUD app.
+Taskino is a task managment web application powered by Laravel framework, this app is a good example for CRUD app.
 
 ## Featuers
 
